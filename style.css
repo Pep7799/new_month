@@ -1,0 +1,25 @@
+* {
+    background-image: url("images/june.jpg");
+    box-sizing: border-box;
+    background-size: cover;
+}
+
+
+.btn {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: black;
+}
+
+button{
+    font-size: 100px;
+    margin-top: 300px;
+    background: black;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    cursor: pointer;
+    border: none;
+}
